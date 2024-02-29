@@ -1,2 +1,3 @@
 embedchain
 embedchain[poe]
+embedchain[whatsapp]
